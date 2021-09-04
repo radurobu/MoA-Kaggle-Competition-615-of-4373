@@ -11,7 +11,8 @@ One approach is to treat a sample of human cells with the drug and then analyze 
 
 In this competition, you will have access to a unique dataset that combines gene expression and cell viability data. The data is based on a new technology that measures simultaneously (within the same samples) human cells’ responses to drugs in a pool of 100 different cell types (thus solving the problem of identifying ex-ante, which cell types are better suited for a given drug). In addition, you will have access to MoA annotations for more than 5,000 drugs in this dataset.
 
-#Conclusions:
+# Conclusions:
+
 My soution to this competition was based on a blend of two models, one based on a simpe artifical neurral netowrk framework an the other is based on a deep tabular data learning architecture (TabNet). This solution got me 615 place out of 4373 competitors.
 
 1) Simple ANN
